@@ -6,6 +6,8 @@ To run
 python summarize-enron.py <path_to_raw_csv>
 ```
 
+(The raw csv can be downloaded from here https://github.com/santhoshthangaraj/Enron-event-history-all/tree/master/DataSet)
+
 It will save the output in two files
 1. emails_activity.csv
 2. activity_plot.html
